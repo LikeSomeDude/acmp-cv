@@ -5,5 +5,7 @@
 4. Python, C++, C# по каждому средние навыки
 5. Английский B1
 6. https://www.codewars.com/users/LikeSomeDude
+7. Выполненные проекты: https://github.com/Zeyken0/Alice-hack.git
 
 ![avatar](https://github.com/user-attachments/assets/ff2dd7ee-2caa-4b72-b88f-ef372645a5ab)
+
